@@ -36,5 +36,6 @@
   "bugs": {
     "url": "https://github.com/kirillman200/tea-crpt/issues"
   },
-  "homepage": "https://github.com/kirillman200/tea-crpt#readme"
+  "homepage": "https://github.com/kirillman200/tea-crpt#readme",
+  "devDependencies": {}
 }
